@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "BHI385_Board") (type "KiCad") (uri "${KIPRJMOD}/BHI385_Board.pretty") (options "") (descr ""))
+	(lib (name "Library") (type "KiCad") (uri "${KIPRJMOD}/Symbol Libraries/Library.pretty") (options "") (descr ""))
+)
